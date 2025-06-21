@@ -3,7 +3,7 @@
 
 <div align="center">
    
-[![Video Demo](https://img.shields.io/badge/VIDEO-WALKTHROUGH-red)](https://youtu.be/short-demo)  
+[![Video Demo](https://drive.google.com/file/d/1sPjW-C2XGDF9HAdimCcq7I96vIO8dt3W/view?usp=sharing)
 ![App Screenshot](https://drive.google.com/uc?export=view&id=1XWdU6-w3JfOLLY99IYDb06qYxK_5Fw32)
 
 </div>
