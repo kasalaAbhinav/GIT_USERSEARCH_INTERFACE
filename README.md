@@ -15,9 +15,9 @@
 
 ## 🚀 Features  
 **Core Requirements**  
-✅ GitHub profile search (name, bio, followers)  
-✅ Top 5 repositories sorted by stars  
-✅ Mobile-first responsive design  
+GitHub profile search (name, bio, followers)  
+ Top 5 repositories sorted by stars  
+
 
 **Bonus Features**  
 🌙 Dark/light mode toggle | ⏳ Debounced search | ✨ Three.js animations  
@@ -50,8 +50,6 @@ Technical
 60% smaller bundle via code-splitting
 
 300ms cached API responses
-
-WCAG-compliant accessibility
 
 Business Value
 
