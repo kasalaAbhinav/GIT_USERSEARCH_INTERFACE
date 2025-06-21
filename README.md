@@ -2,10 +2,9 @@
 *A React-powered GitHub profile search tool with 3D visuals*  
 
 <div align="center">
-  
-[![Live Demo](https://img.shields.io/badge/DEMO-LIVE-brightgreen)](https://your-demo-link.vercel.app) 
+   
 [![Video Demo](https://img.shields.io/badge/VIDEO-WALKTHROUGH-red)](https://youtu.be/short-demo)  
-![App Screenshot](screenshots/main-preview.png)
+![App Screenshot](https://drive.google.com/file/d/1XWdU6-w3JfOLLY99IYDb06qYxK_5Fw32/view?usp=sharing)
 
 </div>
 
