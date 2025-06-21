@@ -3,7 +3,9 @@
 
 <div align="center">
    
-[![Video Demo](https://drive.google.com/file/d/1sPjW-C2XGDF9HAdimCcq7I96vIO8dt3W/view?usp=sharing)
+<a href="https://drive.google.com/file/d/1sPjW-C2XGDF9HAdimCcq7I96vIO8dt3W/preview" target="_blank">
+  <img src="https://img.shields.io/badge/▶_Watch_on_Drive-4285F4?style=for-the-badge&logo=google-drive" alt="Watch Video">
+</a>
 ![App Screenshot](https://drive.google.com/uc?export=view&id=1XWdU6-w3JfOLLY99IYDb06qYxK_5Fw32)
 
 </div>
